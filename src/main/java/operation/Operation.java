@@ -13,6 +13,5 @@ public class Operation {
                         .count() == String.valueOf(x).length())
                 .findAny();
         return num.orElseThrow(NoSuchElementException::new);
-
     }
 }

@@ -1,0 +1,132 @@
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='HATCH_BACK', yearOfIssue=2010, color='RED', price=5000.0$, registerNumber=3456AT-6}
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='SUV', yearOfIssue=2020, color='WHITE', price=20000.0$, registerNumber=7896MK-3}
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='HATCH_BACK', yearOfIssue=2013, color='BLACK', price=3000.0$, registerNumber=2764TK-1}
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - Car{id=0, brand='MITSUBISHI', model='COUPE', yearOfIssue=2022, color='WHITE', price=0.0$, registerNumber=unknown}
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='SEDAN', yearOfIssue=2019, color='YELLOW', price=5000.0$, registerNumber=2341AT-1}
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='COUPE', yearOfIssue=2010, color='BLACK', price=17000.0$, registerNumber=1374PI-7}
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - Array of BMW cars: 
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='HATCH_BACK', yearOfIssue=2010, color='RED', price=5000.0$, registerNumber=3456AT-6}
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='SEDAN', yearOfIssue=2019, color='YELLOW', price=5000.0$, registerNumber=2341AT-1}
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - (stream API) Array of AUDI cars: 
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=9704AB-5}
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='SUV', yearOfIssue=2020, color='WHITE', price=20000.0$, registerNumber=7896MK-3}
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='HATCH_BACK', yearOfIssue=2013, color='BLACK', price=3000.0$, registerNumber=2764TK-1}
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='COUPE', yearOfIssue=2010, color='BLACK', price=17000.0$, registerNumber=1374PI-7}
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - Array of SEDAN cars which were used more than 30 years:
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=9704AB-5}
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - (Stream API) Array of SUV cars which were used more than 2 year:
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - Car{id=2, brand='MITSUBISHI', model='SUV', yearOfIssue=2015, color='BLACK', price=15000.0$, registerNumber=1234TI-7}
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - (Stream API) Array of 2010 year of tissue cars which are expensive (16.000$):
+2022-03-17 23:02:36 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='COUPE', yearOfIssue=2010, color='BLACK', price=17000.0$, registerNumber=1374PI-7}
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Array of cars: 
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=9704AB-5}
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Car{id=2, brand='MITSUBISHI', model='SUV', yearOfIssue=2015, color='BLACK', price=15000.0$, registerNumber=1234TI-7}
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='HATCH_BACK', yearOfIssue=2010, color='RED', price=5000.0$, registerNumber=3456AT-6}
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='SUV', yearOfIssue=2020, color='WHITE', price=20000.0$, registerNumber=7896MK-3}
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='HATCH_BACK', yearOfIssue=2013, color='BLACK', price=3000.0$, registerNumber=2764TK-1}
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Car{id=0, brand='MITSUBISHI', model='COUPE', yearOfIssue=2022, color='WHITE', price=0.0$, registerNumber=unknown}
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='SEDAN', yearOfIssue=2019, color='YELLOW', price=5000.0$, registerNumber=2341AT-1}
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='COUPE', yearOfIssue=2010, color='BLACK', price=17000.0$, registerNumber=1374PI-7}
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Array of BMW cars: 
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='HATCH_BACK', yearOfIssue=2010, color='RED', price=5000.0$, registerNumber=3456AT-6}
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='SEDAN', yearOfIssue=2019, color='YELLOW', price=5000.0$, registerNumber=2341AT-1}
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - (stream API) Array of AUDI cars: 
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=9704AB-5}
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='SUV', yearOfIssue=2020, color='WHITE', price=20000.0$, registerNumber=7896MK-3}
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='HATCH_BACK', yearOfIssue=2013, color='BLACK', price=3000.0$, registerNumber=2764TK-1}
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='COUPE', yearOfIssue=2010, color='BLACK', price=17000.0$, registerNumber=1374PI-7}
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Array of SEDAN cars which were used more than 30 years:
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=9704AB-5}
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - (Stream API) Array of SUV cars which were used more than 2 year:
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Car{id=2, brand='MITSUBISHI', model='SUV', yearOfIssue=2015, color='BLACK', price=15000.0$, registerNumber=1234TI-7}
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - (Stream API) Array of 2010 year of tissue cars which are expensive (16.000$):
+2022-03-17 23:03:12 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='COUPE', yearOfIssue=2010, color='BLACK', price=17000.0$, registerNumber=1374PI-7}
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Array of cars: 
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=9704AB-5}
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Car{id=2, brand='MITSUBISHI', model='SUV', yearOfIssue=2015, color='BLACK', price=15000.0$, registerNumber=1234TI-7}
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='HATCH_BACK', yearOfIssue=2010, color='RED', price=5000.0$, registerNumber=3456AT-6}
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='SUV', yearOfIssue=2020, color='WHITE', price=20000.0$, registerNumber=7896MK-3}
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='HATCH_BACK', yearOfIssue=2013, color='BLACK', price=3000.0$, registerNumber=2764TK-1}
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Car{id=0, brand='MITSUBISHI', model='COUPE', yearOfIssue=2022, color='WHITE', price=0.0$, registerNumber=unknown}
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='SEDAN', yearOfIssue=2019, color='YELLOW', price=5000.0$, registerNumber=2341AT-1}
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='COUPE', yearOfIssue=2010, color='BLACK', price=17000.0$, registerNumber=1374PI-7}
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Array of BMW cars: 
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='HATCH_BACK', yearOfIssue=2010, color='RED', price=5000.0$, registerNumber=3456AT-6}
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='SEDAN', yearOfIssue=2019, color='YELLOW', price=5000.0$, registerNumber=2341AT-1}
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - (stream API) Array of AUDI cars: 
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=9704AB-5}
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='SUV', yearOfIssue=2020, color='WHITE', price=20000.0$, registerNumber=7896MK-3}
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='HATCH_BACK', yearOfIssue=2013, color='BLACK', price=3000.0$, registerNumber=2764TK-1}
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='COUPE', yearOfIssue=2010, color='BLACK', price=17000.0$, registerNumber=1374PI-7}
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Array of SEDAN cars which were used more than 30 years:
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=9704AB-5}
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - (Stream API) Array of SUV cars which were used more than 2 year:
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Car{id=2, brand='MITSUBISHI', model='SUV', yearOfIssue=2015, color='BLACK', price=15000.0$, registerNumber=1234TI-7}
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - (Stream API) Array of 2010 year of tissue cars which are expensive (16.000$):
+2022-03-18 00:38:40 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='COUPE', yearOfIssue=2010, color='BLACK', price=17000.0$, registerNumber=1374PI-7}

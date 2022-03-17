@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import java.util.NoSuchElementException;
 
 public class OperationTest {
-    
+
     @Test(description = "positive test for finding a number consisting of only different digits")
     public void testFindUniqDigitsNumberPositive() {
         double[] nums = new double[]{33.44, 3.765, 98, 54332.08};

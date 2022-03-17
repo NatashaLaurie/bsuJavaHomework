@@ -1,0 +1,196 @@
+2022-03-17 22:07:43 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='SEDAN', yearOfIssue=2019, color='YELLOW', price=5000.0$, registerNumber=AT2341-1}
+2022-03-17 22:09:15 [main] INFO 
+            lab4.run.Main - Array of cars: 
+2022-03-17 22:09:15 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=AB9704-5}
+2022-03-17 22:09:15 [main] INFO 
+            lab4.run.Main - Car{id=2, brand='MITSUBISHI', model='SUV', yearOfIssue=2015, color='BLACK', price=15000.0$, registerNumber=TI1234-7}
+2022-03-17 22:09:15 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='HATCH_BACK', yearOfIssue=2010, color='RED', price=5000.0$, registerNumber=AT3456-6}
+2022-03-17 22:09:15 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='SUV', yearOfIssue=2020, color='WHITE', price=20000.0$, registerNumber=MK7896-3}
+2022-03-17 22:09:15 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='HATCH_BACK', yearOfIssue=2005, color='BLACK', price=3000.0$, registerNumber=TK2764-1}
+2022-03-17 22:09:15 [main] INFO 
+            lab4.run.Main - Car{id=2, brand='MITSUBISHI', model='COUPE', yearOfIssue=2008, color='WHITE', price=6000.0$, registerNumber=AH2764-4}
+2022-03-17 22:09:15 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='SEDAN', yearOfIssue=2019, color='YELLOW', price=5000.0$, registerNumber=AT2341-1}
+2022-03-17 22:09:15 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='COUPE', yearOfIssue=2006, color='BLACK', price=17000.0$, registerNumber=PI1374-7}
+2022-03-17 22:09:15 [main] INFO 
+            lab4.run.Main - Array of BMW cars: 
+2022-03-17 22:09:15 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='HATCH_BACK', yearOfIssue=2010, color='RED', price=5000.0$, registerNumber=AT3456-6}
+2022-03-17 22:09:15 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='SEDAN', yearOfIssue=2019, color='YELLOW', price=5000.0$, registerNumber=AT2341-1}
+2022-03-17 22:09:15 [main] INFO 
+            lab4.run.Main - Array of AUDI cars: 
+2022-03-17 22:09:15 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=AB9704-5}
+2022-03-17 22:09:15 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='SUV', yearOfIssue=2020, color='WHITE', price=20000.0$, registerNumber=MK7896-3}
+2022-03-17 22:09:15 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='HATCH_BACK', yearOfIssue=2005, color='BLACK', price=3000.0$, registerNumber=TK2764-1}
+2022-03-17 22:09:15 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='COUPE', yearOfIssue=2006, color='BLACK', price=17000.0$, registerNumber=PI1374-7}
+2022-03-17 22:09:49 [main] INFO 
+            lab4.run.Main - Array of cars: 
+2022-03-17 22:09:49 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=AB9704-5}
+2022-03-17 22:09:49 [main] INFO 
+            lab4.run.Main - Car{id=2, brand='MITSUBISHI', model='SUV', yearOfIssue=2015, color='BLACK', price=15000.0$, registerNumber=TI1234-7}
+2022-03-17 22:09:49 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='HATCH_BACK', yearOfIssue=2010, color='RED', price=5000.0$, registerNumber=AT3456-6}
+2022-03-17 22:09:49 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='SUV', yearOfIssue=2020, color='WHITE', price=20000.0$, registerNumber=MK7896-3}
+2022-03-17 22:09:49 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='HATCH_BACK', yearOfIssue=2005, color='BLACK', price=3000.0$, registerNumber=TK2764-1}
+2022-03-17 22:09:49 [main] INFO 
+            lab4.run.Main - Car{id=2, brand='MITSUBISHI', model='COUPE', yearOfIssue=2008, color='WHITE', price=6000.0$, registerNumber=AH2764-4}
+2022-03-17 22:09:49 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='SEDAN', yearOfIssue=2019, color='YELLOW', price=5000.0$, registerNumber=AT2341-1}
+2022-03-17 22:09:49 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='COUPE', yearOfIssue=2006, color='BLACK', price=17000.0$, registerNumber=PI1374-7}
+2022-03-17 22:09:49 [main] INFO 
+            lab4.run.Main - Array of BMW cars: 
+2022-03-17 22:09:49 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='HATCH_BACK', yearOfIssue=2010, color='RED', price=5000.0$, registerNumber=AT3456-6}
+2022-03-17 22:09:49 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='SEDAN', yearOfIssue=2019, color='YELLOW', price=5000.0$, registerNumber=AT2341-1}
+2022-03-17 22:09:49 [main] INFO 
+            lab4.run.Main - (stream API) Array of AUDI cars: 
+2022-03-17 22:09:49 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=AB9704-5}
+2022-03-17 22:09:49 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='SUV', yearOfIssue=2020, color='WHITE', price=20000.0$, registerNumber=MK7896-3}
+2022-03-17 22:09:49 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='HATCH_BACK', yearOfIssue=2005, color='BLACK', price=3000.0$, registerNumber=TK2764-1}
+2022-03-17 22:09:49 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='COUPE', yearOfIssue=2006, color='BLACK', price=17000.0$, registerNumber=PI1374-7}
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - Array of cars: 
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=AB9704-5}
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - Car{id=2, brand='MITSUBISHI', model='SUV', yearOfIssue=2015, color='BLACK', price=15000.0$, registerNumber=TI1234-7}
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='HATCH_BACK', yearOfIssue=2010, color='RED', price=5000.0$, registerNumber=AT3456-6}
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='SUV', yearOfIssue=2020, color='WHITE', price=20000.0$, registerNumber=MK7896-3}
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='HATCH_BACK', yearOfIssue=2005, color='BLACK', price=3000.0$, registerNumber=TK2764-1}
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - Car{id=2, brand='MITSUBISHI', model='COUPE', yearOfIssue=2008, color='WHITE', price=6000.0$, registerNumber=AH2764-4}
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='SEDAN', yearOfIssue=2019, color='YELLOW', price=5000.0$, registerNumber=AT2341-1}
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='COUPE', yearOfIssue=2006, color='BLACK', price=17000.0$, registerNumber=PI1374-7}
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - Array of BMW cars: 
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='HATCH_BACK', yearOfIssue=2010, color='RED', price=5000.0$, registerNumber=AT3456-6}
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='SEDAN', yearOfIssue=2019, color='YELLOW', price=5000.0$, registerNumber=AT2341-1}
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - (stream API) Array of AUDI cars: 
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=AB9704-5}
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='SUV', yearOfIssue=2020, color='WHITE', price=20000.0$, registerNumber=MK7896-3}
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='HATCH_BACK', yearOfIssue=2005, color='BLACK', price=3000.0$, registerNumber=TK2764-1}
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='COUPE', yearOfIssue=2006, color='BLACK', price=17000.0$, registerNumber=PI1374-7}
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - Array of SEDAN cars: 
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=AB9704-5}
+2022-03-17 22:13:30 [main] INFO 
+            lab4.run.Main - (Stream API) Array of SUV cars: 
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Array of cars: 
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=AB9704-5}
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Car{id=2, brand='MITSUBISHI', model='SUV', yearOfIssue=2015, color='BLACK', price=15000.0$, registerNumber=TI1234-7}
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='HATCH_BACK', yearOfIssue=2010, color='RED', price=5000.0$, registerNumber=AT3456-6}
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='SUV', yearOfIssue=2020, color='WHITE', price=20000.0$, registerNumber=MK7896-3}
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='HATCH_BACK', yearOfIssue=2005, color='BLACK', price=3000.0$, registerNumber=TK2764-1}
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Car{id=2, brand='MITSUBISHI', model='COUPE', yearOfIssue=2008, color='WHITE', price=6000.0$, registerNumber=AH2764-4}
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='SEDAN', yearOfIssue=2019, color='YELLOW', price=5000.0$, registerNumber=AT2341-1}
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='COUPE', yearOfIssue=2006, color='BLACK', price=17000.0$, registerNumber=PI1374-7}
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Array of BMW cars: 
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='HATCH_BACK', yearOfIssue=2010, color='RED', price=5000.0$, registerNumber=AT3456-6}
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='SEDAN', yearOfIssue=2019, color='YELLOW', price=5000.0$, registerNumber=AT2341-1}
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - (stream API) Array of AUDI cars: 
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=AB9704-5}
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='SUV', yearOfIssue=2020, color='WHITE', price=20000.0$, registerNumber=MK7896-3}
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='HATCH_BACK', yearOfIssue=2005, color='BLACK', price=3000.0$, registerNumber=TK2764-1}
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='COUPE', yearOfIssue=2006, color='BLACK', price=17000.0$, registerNumber=PI1374-7}
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Array of SEDAN cars that used more than 30 years:
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=AB9704-5}
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - (Stream API) Array of SUV cars that used more than 1 year:
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Car{id=2, brand='MITSUBISHI', model='SUV', yearOfIssue=2015, color='BLACK', price=15000.0$, registerNumber=TI1234-7}
+2022-03-17 22:15:46 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='SUV', yearOfIssue=2020, color='WHITE', price=20000.0$, registerNumber=MK7896-3}
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - Array of cars: 
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=AB9704-5}
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - Car{id=2, brand='MITSUBISHI', model='SUV', yearOfIssue=2015, color='BLACK', price=15000.0$, registerNumber=TI1234-7}
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='HATCH_BACK', yearOfIssue=2010, color='RED', price=5000.0$, registerNumber=AT3456-6}
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='SUV', yearOfIssue=2020, color='WHITE', price=20000.0$, registerNumber=MK7896-3}
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='HATCH_BACK', yearOfIssue=2005, color='BLACK', price=3000.0$, registerNumber=TK2764-1}
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - Car{id=2, brand='MITSUBISHI', model='COUPE', yearOfIssue=2008, color='WHITE', price=6000.0$, registerNumber=AH2764-4}
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='SEDAN', yearOfIssue=2019, color='YELLOW', price=5000.0$, registerNumber=AT2341-1}
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='COUPE', yearOfIssue=2006, color='BLACK', price=17000.0$, registerNumber=PI1374-7}
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - Array of BMW cars: 
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='HATCH_BACK', yearOfIssue=2010, color='RED', price=5000.0$, registerNumber=AT3456-6}
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - Car{id=3, brand='BMW', model='SEDAN', yearOfIssue=2019, color='YELLOW', price=5000.0$, registerNumber=AT2341-1}
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - (stream API) Array of AUDI cars: 
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=AB9704-5}
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='SUV', yearOfIssue=2020, color='WHITE', price=20000.0$, registerNumber=MK7896-3}
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='HATCH_BACK', yearOfIssue=2005, color='BLACK', price=3000.0$, registerNumber=TK2764-1}
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - Car{id=4, brand='AUDI', model='COUPE', yearOfIssue=2006, color='BLACK', price=17000.0$, registerNumber=PI1374-7}
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - Array of SEDAN cars that used more than 30 years:
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - Car{id=1, brand='AUDI', model='SEDAN', yearOfIssue=1985, color='WHITE', price=5000.0$, registerNumber=AB9704-5}
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - (Stream API) Array of SUV cars that used more than 2 year:
+2022-03-17 22:16:03 [main] INFO 
+            lab4.run.Main - Car{id=2, brand='MITSUBISHI', model='SUV', yearOfIssue=2015, color='BLACK', price=15000.0$, registerNumber=TI1234-7}
